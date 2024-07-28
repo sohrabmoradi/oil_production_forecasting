@@ -8,8 +8,8 @@ import numpy as np
 # Define the specific file paths for the three wells
 file_paths = [
     'C:/Users/Sohrab/Desktop/data projects/dataset_1_well_1.xlsx',
-    'C:/Users/Sohrab/Desktop/data projects/dataset_1_well_2.xlsx',
-    'C:/Users/Sohrab/Desktop/data projects/dataset_1_well_3.xlsx'
+    'C:/Users/Sohrab/Desktop/data projects/dataset_1_well_4.xlsx',
+    'C:/Users/Sohrab/Desktop/data projects/dataset_1_well_5.xlsx'
 ]
 
 # Initialize lists to store results for each well
