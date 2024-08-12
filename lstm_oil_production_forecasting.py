@@ -25,7 +25,7 @@ def create_dataset(dataset, look_back):
 tf.random.set_seed(7)
 
 # Load the dataset
-dataframe = read_excel('dataset_1_well_3.xlsx',
+dataframe = read_excel('dataset_1_well_1.xlsx',
                        sheet_name='Calculated Data', usecols=[2])
 dataframe = dataframe.iloc[1:]
 dataset = dataframe.values
